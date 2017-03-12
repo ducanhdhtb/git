@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Trainning tai framgia modify
-Thay doi lan 1 ok
-Thay doi lan 2 ok
-=======
-Trainning tai framgia modify
->>>>>>> parent of f4aed62... message 1
